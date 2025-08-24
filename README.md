@@ -65,7 +65,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/kavishbasole17/PaisaBazaar_Credit_Score_Predciction.git)
+    git clone [[https://github.com/your-username/your-repository-name.git](https://github.com/kavishbasole17/PaisaBazaar_Credit_Score_Predciction.git)](https://github.com/kavishbasole17/PaisaBazaar_Credit_Score_Predciction.git)
     cd PaisaBazaar_Credit_Score_Predciction
     ```
 
